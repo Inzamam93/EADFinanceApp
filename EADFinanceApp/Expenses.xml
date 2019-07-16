@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Expense>
+  <Expense>
+    <date>7/12/2019</date>
+    <expenseAmount>5</expenseAmount>
+    <payeeName>ty</payeeName>
+  </Expense>
+  <Expense>
+    <date>7/12/2019</date>
+    <expenseAmount>12</expenseAmount>
+    <payeeName>gg</payeeName>
+  </Expense>
+  <Expense>
+    <date>7/15/2019</date>
+    <expenseAmount>10</expenseAmount>
+    <payeeName>potato</payeeName>
+  </Expense>
+</Expense>
